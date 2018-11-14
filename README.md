@@ -1,7 +1,10 @@
 # Workshops
 Public educational workshops materials
+
 Academic Year (AY) runs from August to August
+
 Recording TBA
+
 
 ## AY 2018 - 2019
 
