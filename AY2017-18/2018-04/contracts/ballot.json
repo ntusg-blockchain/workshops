@@ -1,0 +1,201 @@
+
+======= Ballot.sol:Ballot =======
+Metadata:
+{
+	"compiler": {
+		"version": "0.4.21+commit.dfe3193c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "proposal",
+						"type": "uint256"
+					}
+				],
+				"name": "vote",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "proposals",
+				"outputs": [
+					{
+						"name": "name",
+						"type": "bytes32"
+					},
+					{
+						"name": "voteCount",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "chairperson",
+				"outputs": [
+					{
+						"name": "",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "to",
+						"type": "address"
+					}
+				],
+				"name": "delegate",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "winningProposal",
+				"outputs": [
+					{
+						"name": "winningProposal_",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "voter",
+						"type": "address"
+					}
+				],
+				"name": "giveRightToVote",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "voters",
+				"outputs": [
+					{
+						"name": "weight",
+						"type": "uint256"
+					},
+					{
+						"name": "voted",
+						"type": "bool"
+					},
+					{
+						"name": "delegate",
+						"type": "address"
+					},
+					{
+						"name": "vote",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "winnerName",
+				"outputs": [
+					{
+						"name": "winnerName_",
+						"type": "bytes32"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"name": "proposalNames",
+						"type": "bytes32[]"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {
+				"winningProposal()": {
+					"details": "Computes the winning proposal taking all previous votes into account."
+				}
+			},
+			"title": "Voting with delegation."
+		},
+		"userdoc": {
+			"methods": {
+				"delegate(address)": {
+					"notice": "Delegate your vote to the voter `to`."
+				},
+				"vote(uint256)": {
+					"notice": "Give your vote (including votes delegated to you) to proposal `proposals[proposal].name`."
+				}
+			}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Ballot.sol": "Ballot"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Ballot.sol": {
+			"keccak256": "0x22d56af063a8e201452f2118c36d841d33662cf6ff4dee707815c243b47c1aa0",
+			"urls": [
+				"bzzr://5a4d1cccbca6a0aa472236eed639adbcca1f28d814e2dd1cd87da65f49af3acb"
+			]
+		}
+	},
+	"version": 1
+}
