@@ -1,0 +1,241 @@
+Disclaimer
+This is a personal reading list released under MIT Non-commercial License. Any copy, modification, distribution of this doc with clear attributions is free and allowed. This doc doesn’t reflect opinions or preferences other than the author, especially not of any institutions the author affiliated to. 
+The MIT License
+
+Copyright (c) 2010-2018 Google, Inc. http://angularjs.org
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptocurrency and Blockchain
+Vision: The Value of Blockchain:
+https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/
+https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust/
+https://blog.ethereum.org/2014/11/13/scalability-part-3-metacoin-history-multichain/
+Problem of Censorship:
+https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/
+EthereumWallet Management:
+https://docs.google.com/document/d/10cUS-aI-pUvNbE4PUYEols-ns1PzSmAB-2yxWzmikBI/edit#
+Decentralization in Bitcoin and Ethereum (Cornell)
+http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/ 
+Ethereum
+Ethereum Research:
+https://ethresear.ch/
+Yellow Paper (Gavin Woods):
+http://yellowpaper.io/
+Patricia Tree (data structure, augmented Merkle Tree.):
+https://github.com/ethereum/wiki/wiki/Patricia-Tree
+Oyente Github (symbolic execution for vulnerability scanning):
+https://github.com/ethereum/oyente
+
+Bitcoin
+Selfish Mining Attack (Ittay Eyal and Emin G¨un Sirer):
+https://arxiv.org/pdf/1311.0243.pdf
+Non-outsourceable Puzzle:
+https://cs.umd.edu/~amiller/nonoutsourceable_full.pdf
+
+ZCash
+Zcash crypto:
+https://z.cash/technology/zksnarks.html
+Tendermint
+Tendermint Original Whitepaper (outdated):
+http://www.the-blockchain.com/docs/Tendermint%20Consensus%20without%20Mining.pdf
+Tendermint Consensus:
+https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/9769/Buchman_Ethan_201606_MAsc.pdf?sequence=7&isAllowed=y 
+Tendermint Consensus v.s. EOS dPOS:
+https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b
+Monero
+Monero Explained:
+https://www.youtube.com/watch?v=pTgadb7M47E
+Monero, Anonymous? -- linkability introduced. 
+http://hackingdistributed.com/2017/04/19/monero-linkability/ 
+Ripple / Stellar
+Ripple Whitepaper :
+https://ripple.com/files/ripple_consensus_whitepaper.pdf
+New Ripple Publication
+https://arxiv.org/pdf/1802.07240.pdf 
+Stellar Summary:
+https://medium.com/a-stellar-journey/on-worldwide-consensus-359e9eb3e949
+Stellar Whitepaper (TL;DR):
+https://www.stellar.org/papers/stellar-consensus-protocol.pdf
+
+OmiseGo
+Whitepaper 
+https://cdn.omise.co/omg/whitepaper.pdf 
+Token Sale (ICO)
+The Perfect Token sale structure:
+https://blog.gdax.com/the-perfect-token-sale-structure-63c169789491
+Analyzing Token Sale model (Vitalik):
+http://vitalik.ca/general/2017/06/09/sales.html
+Thoughts on Token:
+https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe
+App Token and Protocol Token (what is necessary, what is BS):
+https://medium.com/0x-project/the-difference-between-app-coins-and-protocol-tokens-7281a428348c
+Golem Crowdfunding contract in picture:
+https://blog.golemproject.net/gnt-crowdfunding-contract-in-pictures-d6b5a2e69150
+
+
+Consensus
+Understanding Consensus:
+https://www.youtube.com/watch?v=7abKUs9tYZg
+Traditional Consensus
+PBFT:
+https://kelehers.me/others/pbftByzantine.pdf
+Consensus in partially synchronous system (traditional consensus research):
+http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf
+Linearizability vs. Serializability 
+http://www.bailis.org/blog/linearizability-versus-serializability/
+
+Proof of Stake
+PoS FAQ:
+https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+PoS and Weak Subjectivity
+https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
+GHOST protocol:
+https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/
+Casper (abstract intro):
+https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/
+Casper latest update:
+https://docs.google.com/presentation/d/1MTb9myfNIQzjMs6QdW2NrtmtzeCexEAiLUpLJZJRKoU/edit#slide=id.g35f391192_00
+Minimal Slashing Condition:
+https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c
+Long-range Attack:
+https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
+History of Casper (Vlad):
+https://blog.ethereum.org/2016/12/06/history-casper-chapter-1/
+https://blog.ethereum.org/2016/12/07/history-casper-chapter-2/
+https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc
+https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e
+https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58
+Safety under dynamic validator set:
+https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6
+Weak Subjectivity:
+https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
+
+
+Cryptography
+Threshold Signature Scheme:
+https://eprint.iacr.org/2002/081.pdf
+MimbleWimble:
+https://scalingbitcoin.org/papers/mimblewimble.txt
+Ring Signature:
+https://www.cs.umd.edu/~jkatz/papers/ring_sigs.pdf
+
+Libraries/Dev Tool
+Security and Best practice
+Smart contract best practice:
+https://github.com/ConsenSys/smart-contract-best-practices 
+Parity hack analysis
+http://hackingdistributed.com/2017/07/22/deep-dive-parity-bug/ 
+DAO hack analysis
+http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/ 
+Reentrance Bug:
+http://hackingdistributed.com/2016/07/13/reentrancy-woes/
+Block Explorer
+Etherscan
+https://etherscan.io/
+Full node provider:
+https://infura.io/
+
+Multisig Wallet
+Multisig Wallet from Gnosis:
+https://github.com/ConsenSys/MultiSigWallet
+Voting
+Colony Voting system design Intro:
+https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119
+Prediction Market
+Gnosis architecture:
+https://docs.google.com/document/d/12wglUp-bImRhfcRUEJv3RMtBPaIRWmCx8V-DQBEE6Uo/edit#heading=h.nbm3b6mq1iri
+Decentralized Exchanges (DEX)
+DEX examine:
+http://hackingdistributed.com/2017/08/13/cost-of-decent/ 
+0x Slides:
+https://docs.google.com/presentation/d/1N_1NWienJmrRxRfQEclYRykoLdZD3E0MdtYK5DJcLgI/edit#slide=id.g1ecb069575_0_23
+0x FAQ:
+https://0xproject.com/faq
+Swap whitepaper:
+https://swap.tech/whitepaper#oracle-protocol
+Oracle / Data Feed
+Understanding Oracle:
+https://blog.oraclize.it/understanding-oracles-99055c9c9f7b
+Town Crier (Authenticated data feed using trusted hardware)
+http://www.town-crier.org/ 
+
+Library & More
+SafeMath library (Digix)
+https://digixglobal.github.io/etc-redemption/docs/SafeMath/
+Compatible Contract Versions Update: Ether-Router:
+https://github.com/ownage-ltd/ether-router
+Differences between `call` `delegatecall` and `calldata`:
+https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall
+Ethereum Alarm Clock:
+http://docs.ethereum-alarm-clock.com/en/latest/
+Solidity Babystep:
+https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts
+RanDAO:
+https://github.com/randao/randao
+Proxy Library (upgradable lib):
+https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd
+
+Scalability Solution
+Sharding
+Sharding FAQ:
+https://github.com/ethereum/wiki/wiki/Sharding-FAQ
+State Channel / Micropayment Channel
+State Channel Wiki:
+https://github.com/ledgerlabs/state-channels/wiki
+Bitcoin Lightening Network:
+https://lightning.network/lightning-network-paper.pdf
+
+P2P Network
+Libp2p:
+https://github.com/libp2p/specs 
+Devp2p v.s. Libp2p :
+https://ethereum.stackexchange.com/questions/12290/what-is-the-distinction-between-libp2p-devp2p-and-rlpx?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa 
+DHT and Pastry Routing Algorithm explained:
+https://www.youtube.com/watch?v=WqQRQz_XYg4
+https://www.youtube.com/watch?v=p8iugvHeGcg
+
+Incentive in Tor:
+https://blog.torproject.org/blog/two-incentive-designs-tor
+
+Random
+TrustRank:
+https://consensys.quip.com/lyxaA5fyboNr
+Trust is in the eyes of the beholder:
+http://web.cs.ucdavis.edu/~defigued/index_files/beholder.pdf
+Unix Philosophy:
+https://en.wikipedia.org/wiki/Unix_philosophy
+Condition-Orientated Programming: 
+https://medium.com/@gavofyork/condition-orientated-programming-969f6ba0161a
+Module.export in nodejs:
+https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+
