@@ -25,3 +25,4 @@
 
 # Practice Resources :
 ⋅⋅* [Ethernaut Openzeppelin](https://ethernaut.openzeppelin.com/)
+⋅⋅* [CryptoZombies](https://cryptozombies.io/)
