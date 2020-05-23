@@ -15,6 +15,8 @@
 - [EatTheBlocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA/playlists)
 
 # Webpage Resources 
+- [Blockchain@berkeley-Ethereum_Development_Course] (https://www.udemy.com/course/ethereum-development-course-blockchain-at-berkeley/)
+- [Blockchain@berkeley-Cryptocurrency Trading Explained](https://www.udemy.com/course/babtrading/)
 - [Consensys](https://consensys.net/developers)
 - [Consensys Academy](https://learn.consensys.net/)
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
