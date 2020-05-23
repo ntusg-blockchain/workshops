@@ -15,3 +15,4 @@ Public educational workshops materials
 # NTU Internal Groups
 [Yammer](https://www.yammer.com/e.ntu.edu.sg/#/threads/inGroup?type=in_group&feedId=18666119168)
 [Teams](https://teams.microsoft.com/l/team/19%3a0b02cda5c6d14a80b835265bde08f110%40thread.tacv2/conversations?groupId=bb905855-e926-46f6-bda4-c70da0f09be5&tenantId=15ce9348-be2a-462b-8fc0-e1765a9b204a)
+[Stream](https://web.microsoftstream.com/channel/675b31b4-9dd8-48d3-89e1-69aa6427f3bb)
