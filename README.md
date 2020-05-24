@@ -1,3 +1,4 @@
+![alt text](https://github.com/ntusg-blockchain/workshops/Logo.png "Blockchain@NTU Logo")
 
 # Public Repo for Blockchain@NTU.
 Public educational workshops materials
